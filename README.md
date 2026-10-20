@@ -3,6 +3,7 @@
 A lightweight, single-page diary application built with plain HTML, CSS, and JavaScript. This project is designed specifically for educational purposes to demonstrate fundamental Web API concepts, state management, and clear CRUD (Create, Read, Update, Delete) architecture using `localStorage`.
 
 Lazily generated with Gemini Auto Low ([https://share.gemini.google/sHYX4tkeGI5S](https://share.gemini.google/sHYX4tkeGI5S)).
+
 ---
 
 ## 🎯 Educational Goals
